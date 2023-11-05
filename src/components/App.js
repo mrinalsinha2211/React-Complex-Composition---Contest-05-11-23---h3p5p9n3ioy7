@@ -17,7 +17,7 @@ const TypesOfFruit = () => {
 const Fruits = () => {
   return (
     <div id="fruits">
-    <TypesOfFruit />
+    <TypesOfFruit/>
       { /* Change code below this line */ }
 
       { /* Change code above this line */ }
